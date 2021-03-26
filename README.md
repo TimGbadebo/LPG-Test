@@ -30,6 +30,10 @@ For both step automation test was carried out for user, A. picking what type of 
 Assertions were used to verify test credibility. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+To run both test, make sure you clean and build solution. 
+You can pick what test you want to run via test explorer 
+Test can be run in debug mode for indepth understanding of code and what they do. 
+Or you can Simply click the run button to run the test
 
 What needs been done to finish the user experience 
 Payment carried out and user should recieve the correct detail of the pass paid for
